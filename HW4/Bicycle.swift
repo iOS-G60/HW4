@@ -5,7 +5,6 @@
 //  Created by Serg on 1/30/18.
 //  Copyright © 2018 Ann Tsarikovskaya. All rights reserved.
 //
-
 import Foundation
 
 class Bicycle: NSObject {
