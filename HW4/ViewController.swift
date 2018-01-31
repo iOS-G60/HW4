@@ -18,6 +18,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+        
         bikeOne.printInfo()
         let cheapBike =  cheapestBike(bikes: [bikeOne, bikeTwo])
        print(cheapBike.model)
